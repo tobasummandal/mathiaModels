@@ -2,7 +2,7 @@
 
 This project contains machine learning models for predicting three learning outcomes: **Metacognition**, **Math Learning**, and **Motivation** based on student behavioral data.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Installation](#installation)
@@ -11,7 +11,7 @@ This project contains machine learning models for predicting three learning outc
 - [Model Details](#model-details)
 - [Output Files](#output-files)
 
-## 🎯 Project Overview
+## Project Overview
 
 The project consists of three separate models, each predicting different learning outcomes:
 
@@ -21,7 +21,7 @@ The project consists of three separate models, each predicting different learnin
 
 Each model uses behavioral features extracted from student interaction data and workspace summaries.
 
-## 🚀 Installation
+## Installation
 
 ### 1. Recommended - Create virtual/conda environment
 
